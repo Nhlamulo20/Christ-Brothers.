@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center; font-family: Times New Roman;
+  width: 100%;
+  padding: 20px 0;
+}
+h2, p, h1 {
+	font-family:serif; text-align:center; color:white;
+	co
+   }
+body
+    {
+    background-color: #6c8ebf;
+    }
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  padding: 20px 0;
+	}
+main {
+  padding: 20px;
+  font-family: ;color: white;
+}
+nav {
+	background-color: #444;
+	color: #fff;
+	padding: 10px 20px;
+	text-align: center;
+	}
+nav a {
+		color: #fff;
+		text-decoration: none;
+		text-decoration-color: yellow;
+		margin:0 10px;
+		}
+		.header-text {
+		margin-left: 20px; /* Add spacing between the logo and header text */
+		}
+		.logo, .header-text {
+		display: inline-block;
+		vertical-align: middle; /* Align elements vertically */
+		}
+		.logo img {
+		width: 50px; /* Adjust the size of the logo as needed */
+		height: auto; /* Maintain aspect ratio */
+		border-radius: 10px; border-color:yellow;
+		}
+		.header-text {
+		margin-left: 10px; /* Add spacing between the logo and header text */
+		}
+	body {
+	margin: 0;
+	padding: 0;
+	}
+	
+	.video-container {
+	width: 100%;
+	max-width: 800px; /* Set maximum width of the video container */
+	margin: 50px auto;
+	overflow: hidden;
+	border-radius: 20px; /* Add rounded corners */
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Add a shadow effect */
+	}
+	
+	video {
+	width: 100%;
+	display: block;
+	border-radius: 20px; /* Add rounded corners to the video */
+	}
+	.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center; /* For centering text inside button */
+	}
+	
+	button {
+	background-color: #ff6600;
+	color: #fff;
+	padding: 14px 24px; /* Adjust padding for height and width */
+	margin-top: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+	font-size: 16px; /* Adjust font size */
+	}
+	
+	button:hover {
+	background-color: #e65c00;
+	}
+	
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.contact-button {
+  margin-top: 10px;
+}
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.product img {
+  width: 70%; /* Make sure the image fills its container */
+  border-radius: 10px; /* Apply unique border radius */
+}
+
+.contact-button {
+  margin-top: 10px;
+}
